@@ -1,0 +1,26 @@
+[
+  {
+    "id": 11146,
+    "symbol": "BIO-USDT",
+    "target": 0.065,
+    "direction": "above",
+    "price_at_set": 0.04713,
+    "created_at": "03:45 16/04"
+  },
+  {
+    "id": 16524,
+    "symbol": "IP-USDT",
+    "target": 0.505,
+    "direction": "below",
+    "price_at_set": 0.511,
+    "created_at": "05:15 16/04"
+  },
+  {
+    "id": 16548,
+    "symbol": "AR-USDT",
+    "target": 1.93,
+    "direction": "below",
+    "price_at_set": 2.03,
+    "created_at": "05:15 16/04"
+  }
+]
